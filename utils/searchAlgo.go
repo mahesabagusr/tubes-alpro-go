@@ -2,6 +2,8 @@ package utils
 
 import "fmt"
 
-func search(){
+func Search(){
 	fmt.Println("Coba Lagi")
+	//Makan Bang
+	//APALAH INI
 }

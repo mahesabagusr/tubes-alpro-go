@@ -7,11 +7,8 @@ import (
 
 func main() {
     utils.SayHello("Alice")
-
-	utils.search()
-
-	fmt.Println("Makan Bang 12")
-
+	utils.Search()
+	fmt.Println("Saat.....")
 }
 
 
